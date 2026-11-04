@@ -1,0 +1,8 @@
+{
+  "appId": "com.shelf.reader",
+  "appName": "Shelf",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
